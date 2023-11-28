@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright © Jodiah Jensen. All Rights Reserved.
 
 
 #include "ShooterGameModeBase.h"
