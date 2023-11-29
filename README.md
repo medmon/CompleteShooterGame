@@ -2,4 +2,7 @@
 Shooter Game from Stephen Ulibarri tutorial
 
 Version 0.0.01
-- initial setup of the repository
+- Initial setup of the repository
+
+Version 0.8.01
+- Character Class added
