@@ -6,3 +6,6 @@ Version 0.0.01
 
 Version 0.8.01
 - Character Class added
+
+Version 0.9.01
+- UE_LOG added for BeginPlay() called
