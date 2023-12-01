@@ -35,3 +35,5 @@ Version 0.20.01
 Version 0.21.01
 - Added Run animations and ABP_Shooter animation blueprint
 
+Version 0.22.01
+- Trimmed the Jog_Fwd_start and _stop animations to look better in our use case
