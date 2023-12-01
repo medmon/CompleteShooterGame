@@ -32,3 +32,6 @@ Version 0.19.01
 Version 0.20.01
 - Created the Anim Instance c++ Class
 
+Version 0.21.01
+- Added Run animations and ABP_Shooter animation blueprint
+
