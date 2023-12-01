@@ -29,3 +29,6 @@ Version 0.19.01
 - Added Paragon: Lt Belica asset to project ( large commit )
 - Set Character Mesh to Belica
 
+Version 0.20.01
+- Created the Anim Instance c++ Class
+
