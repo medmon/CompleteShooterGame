@@ -46,7 +46,7 @@ Version 0.22.03
 
 Version 0.22.04 thru 0.22.06
 - converted input system to use Enhanced Input
--implemented move, look and jumping in Enhanced Input System
+- implemented move, look and jumping in Enhanced Input System
 
 Version 0.23.01
 - set up character to face direction of movement
@@ -56,3 +56,7 @@ Version 0.26.01
 - Added sound assets to project
 - Added sounds for weapon fire
 
+Version 0.27.01
+- Added socket to weapon barrel for muzzle flash
+- Added Muzzle Flash particle system
+- Added particle system to FireWeapon function
