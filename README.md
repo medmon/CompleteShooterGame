@@ -56,3 +56,7 @@ Version 0.26.01
 - Added sound assets to project
 - Added sounds for weapon fire
 
+Version 0.27.01
+- Added socket to weapon barrel for muzzle flash
+- Added Muzzle Flash particle system
+- Add particlke system to FireWeapon function
