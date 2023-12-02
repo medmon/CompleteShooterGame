@@ -50,3 +50,9 @@ Version 0.22.04 thru 0.22.06
 
 Version 0.23.01
 - set up character to face direction of movement
+
+Version 0.26.01
+- Added IA_FireWeapon with left mouse button press
+- Added sound assets to project
+- Added sounds for weapon fire
+
