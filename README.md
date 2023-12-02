@@ -37,3 +37,26 @@ Version 0.21.01
 
 Version 0.22.01
 - Trimmed the Jog_Fwd_start and _stop animations to look better in our use case
+
+Version 0.22.02
+- Converted project to UE5.2 Version
+
+Version 0.22.03
+- Added the Houdini Plugin to the project
+
+Version 0.22.04 thru 0.22.06
+- converted input system to use Enhanced Input
+-implemented move, look and jumping in Enhanced Input System
+
+Version 0.23.01
+- set up character to face direction of movement
+
+Version 0.26.01
+- Added IA_FireWeapon with left mouse button press
+- Added sound assets to project
+- Added sounds for weapon fire
+
+Version 0.27.01
+- Added socket to weapon barrel for muzzle flash
+- Added Muzzle Flash particle system
+- Add particlke system to FireWeapon function
