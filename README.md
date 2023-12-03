@@ -87,6 +87,7 @@ Version 0.34.01
 Version 0.35.01
 - Perform line trace from crosshair to point in world under the crosshair
 
-
+Version 0.36.01
+- Perform a second line trace from the weapon barrel to check for LOS from the muzzle
 
 
