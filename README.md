@@ -65,5 +65,7 @@ Version 0.28.01
 - Created AM_HipFireMontage
 - Added new montage to ABP_Shooter
 
+Version 0.29.01
+- Created Layered Blend in ABP_Shooter to blend Weapons Fire with Ground Locomotion
 
 
