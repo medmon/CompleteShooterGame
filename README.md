@@ -80,7 +80,9 @@ Version 0.32.01
 - Added Smoke Beam (SmokeTrail_Faded) particle system to FireWeapon()
   and set in blueprint
   
-
+Version 0.34.01
+- Added crosshair assets to project
+- Placed crosshair on screen via HUD
 
 
 
