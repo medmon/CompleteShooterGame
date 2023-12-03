@@ -60,3 +60,10 @@ Version 0.27.01
 - Added socket to weapon barrel for muzzle flash
 - Added Muzzle Flash particle system
 - Added particle system to FireWeapon function
+
+Version 0.28.01
+- Created AM_HipFireMontage
+- Added new montage to ABP_Shooter
+
+
+
