@@ -75,6 +75,12 @@ Version 0.30.01
 Version 0.31.01
 - Added Impact Particles for bullet hits
 
+Version 0.32.01
+- Added Smoke Beam assets to project
+- Added Smoke Beam (SmokeTrail_Faded) particle system to FireWeapon()
+  and set in blueprint
+  
+
 
 
 
