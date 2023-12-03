@@ -72,5 +72,9 @@ Version 0.30.01
 - Perform Line trace for bullet hits
 - Draw debug line and debug point to show line trace
 
+Version 0.31.01
+- Added Impact Particles for bullet hits
+
+
 
 
