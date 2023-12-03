@@ -84,5 +84,9 @@ Version 0.34.01
 - Added crosshair assets to project
 - Placed crosshair on screen via HUD
 
+Version 0.35.01
+- Perform line trace from crosshair to point in world under the crosshair
+
+
 
 
