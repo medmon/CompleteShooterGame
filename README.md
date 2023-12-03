@@ -68,4 +68,9 @@ Version 0.28.01
 Version 0.29.01
 - Created Layered Blend in ABP_Shooter to blend Weapons Fire with Ground Locomotion
 
+Version 0.30.01
+- Perform Line trace for bullet hits
+- Draw debug line and debug point to show line trace
+
+
 
