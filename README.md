@@ -112,4 +112,7 @@ Version 0.41.01
 Version 0.41.02
 - Removed RMB from chorded action for Look action to allow for mouse control of character facing without holding RMB down
 
-
+Version 0.43.01
+- Added IA_AimingButton input action
+- Added FOV variables and functions
+- set RMB as trigger for zooming to aim
