@@ -116,3 +116,6 @@ Version 0.43.01
 - Added IA_AimingButton input action
 - Added FOV variables and functions
 - set RMB as trigger for zooming to aim
+
+Version 0.43.02
+- Code cleanup
