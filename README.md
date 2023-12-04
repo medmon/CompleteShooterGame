@@ -99,5 +99,9 @@ Version 0.37.02
 - FireWeapon() cannot be const, removed const
 
 Version 0.39.01
-- Added Blend Space BS_Running to include strafing animations
-- Added MovementOffsetYaw to ShooterAnimInstance to drive blend Space
+- Added Blendspace BS_Running to include strafing animations
+- Added MovementOffsetYaw to ShooterAnimInstance to drive blendspace
+
+Version 0.40.01
+- Added Blendspace for JogStart
+
