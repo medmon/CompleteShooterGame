@@ -105,3 +105,6 @@ Version 0.39.01
 Version 0.40.01
 - Added Blendspace for JogStart
 
+Version 0.41.01
+- Added Blendspace for JogStop
+- Added LastMovementOffsetYaw for use with JogStop blendspace
