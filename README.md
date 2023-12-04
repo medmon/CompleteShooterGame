@@ -119,3 +119,7 @@ Version 0.43.01
 
 Version 0.43.02
 - Code cleanup
+
+Version 0.44.01
+- Added an interp to the FOV Zoom in and out when aiming
+
