@@ -94,3 +94,6 @@ Version 0.37.01
 - Refactored FireWeapon() to move beam end calculation to it's own function 
   GetBeamEndLocation()
 - Code cleanup
+
+Version 0.37.02
+- FireWeapon() cannot be const, removed const
