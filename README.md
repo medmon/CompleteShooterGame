@@ -108,3 +108,8 @@ Version 0.40.01
 Version 0.41.01
 - Added Blendspace for JogStop
 - Added LastMovementOffsetYaw for use with JogStop blendspace
+
+Version 0.41.02
+- Removed RMB from chorded action for Look action to allow for mouse control of character facing without holding RMB down
+
+
