@@ -126,3 +126,8 @@ Version 0.44.01
 Version 0.45.01
 -  Added animation RMB_AO_CC as AimingPose animation
 -  Created a blend in ABP_Shooter for GroundLocomotionWithFire and AimingPose
+
+Version 0.46.01
+- Added state machine for aiming in ABP_Shooter blueprint to handle poses for hip fire and aiming fire
+
+

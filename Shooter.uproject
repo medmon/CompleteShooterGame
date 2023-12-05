@@ -18,5 +18,8 @@
 			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
